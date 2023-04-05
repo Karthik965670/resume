@@ -1,0 +1,21 @@
+body{
+  background-color: #DAF5FF;
+}
+hr{
+  border-style: none;
+  border-top-style:inset;
+  border-color: #62CDFF;
+  width:50%;
+  border-width:3px;
+  height:0px
+
+
+}
+h1
+{
+  color: #537FE7
+}
+h2
+{
+  color:#537FE7
+}
